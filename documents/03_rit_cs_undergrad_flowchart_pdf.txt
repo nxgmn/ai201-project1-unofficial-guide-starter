@@ -1,0 +1,107 @@
+RIT Computer Science BS — Undergraduate Course Flowchart
+Source: RIT CS Department, CSUndergradFlowChart.pdf (manually transcribed)
+
+This document describes the recommended course sequence for the RIT Computer Science BS degree, organized by year. Prerequisites are shown where relevant. Writing-intensive courses, co-op requirements, and general education requirements are noted throughout.
+
+---
+
+FIRST YEAR
+
+First Semester:
+- CSCI 141: Computer Science I (introductory programming; no prerequisite)
+- MATH 181: Calculus I
+- Gen Ed: 1st Year Writing Course (URWT 150 or ISTE 110 satisfies this requirement)
+- Gen Ed: Artistic Perspective
+- Gen Ed: Global Perspective
+- YOPS 10: First-year orientation seminar
+
+Second Semester:
+- CSCI 142: Computer Science II (prerequisite: CSCI 141 with C or higher)
+- MATH 182: Calculus II (prerequisite: MATH 181 with C or higher)
+- MATH 190: Discrete Mathematics for Computing (co-requisite: MATH 182)
+- Gen Ed: Ethical Perspective
+- Gen Ed: Social Perspective
+- Wellness Activity
+- RIT 365: RIT and Society (1st Year Requirement)
+
+---
+
+SECOND YEAR
+
+Third Semester:
+- CSCI 243: The Art and Practice of Computer Science (prerequisite: CSCI 142 with C or higher; covers C programming, memory management, and software design)
+- CSCI 262: Introduction to Computer Science Theory (prerequisite: CSCI 141 and MATH 190; covers formal languages, automata, and computability)
+- MATH 251: Probability and Statistics (prerequisite: MATH 182)
+- Lab Science 1 (Biology, Chemistry, or Physics sequence; see CS handbook for allowed sequences)
+- Gen Ed Elective
+- Co-op Seminar (CSCI 99; required every semester, prepares students for co-op search)
+
+Fourth Semester:
+- CSCI 261: Analysis of Algorithms (prerequisite: CSCI 243 and CSCI 262; covers algorithm design, complexity analysis, sorting, graphs, dynamic programming)
+- MATH 241: Linear Algebra for Engineers (prerequisite: MATH 190; also listed as prerequisite for several AI/graphics electives)
+- Lab Science 2 (continuation of the Lab Science sequence)
+- Gen Ed: Natural Science Inquiry Perspective (Lab Science 1 fulfills this)
+- Gen Ed: Mathematical Perspectives (fulfilled by Calculus sequence)
+- Wellness Activity
+- Summer Co-op (CSCI 488; optional but strongly encouraged; semester-length summer work experience)
+
+---
+
+THIRD YEAR
+
+Fifth Semester:
+- CSCI 331: Introduction to Artificial Intelligence (prerequisite: CSCI 142 and MATH 190)
+- CSCI 320: Concepts of Parallel and Distributed Systems (prerequisite: CSCI 243 and MATH 190)
+- CSCI 250: Computer Organization (prerequisite: CSCI 243 and MATH 190; covers digital logic, assembly language, memory hierarchy)
+- Open Elective
+- Gen Ed: Immersion (Immersion is a 3-course thematic sequence chosen from approved Gen Ed areas)
+- Semester Co-op (CSCI 499; full-semester on-site or remote work experience)
+
+Sixth Semester:
+- Concurrent and Distributed Systems elective or CS Cluster Elective
+- Language and Program Design (CSCI 344 or equivalent; prerequisite: CSCI 243 and MATH 243)
+- Open Elective
+- Gen Ed: Immersion continuation
+- Semester Co-op (CSCI 499; another rotation if on co-op cycle)
+
+---
+
+FOURTH AND FIFTH YEAR
+
+Seventh and Eighth (or Ninth) Semester:
+- CS Cluster Elective (choose from AIN, AOS, CGM, DSC, DSS, PLT, SEC, or THR clusters; at least two cluster electives required)
+- CS Elective (any upper-division CSCI course not used for cluster)
+- CS Cluster Elective (second cluster course)
+- Open Elective
+- Open Elective
+- CSCI 472: Historical and Current Perspectives in Computer Science (writing-intensive; required for 4th or 5th year standing; satisfies one of three required writing-intensive courses)
+- Gen Ed Elective
+- Gen Ed: Immersion (completion of 3-course Immersion sequence)
+- Semester Co-op (CSCI 499; additional rotations as scheduled)
+
+---
+
+COURSE COLOR/TYPE LEGEND
+
+- Computer Science / Software Engineering courses: core CS curriculum (CSCI prefix)
+- Math courses: MATH sequence supporting CS foundations
+- General Education: perspective, immersion, and writing requirements
+- Science: Lab Science sequences (Biology, Chemistry, or Physics)
+- Open Elective: any credit-bearing course at RIT
+- First Year Requirement: YOPS 10 and RIT 365
+- Wellness: physical education or wellness activity
+- Co-op: CSCI 99 (seminar, every semester), CSCI 488 (summer co-op), CSCI 499 (semester co-op)
+
+---
+
+KEY NOTES
+
+Writing-Intensive Courses: Three are required. The first-year writing course (URWT 150 or ISTE 110) counts as one. One Gen Ed course must be writing-intensive. CSCI 472 (Historical and Current Perspectives in Computer Science) is the program-specific writing-intensive course and must be completed.
+
+Lab Sciences: Only specific sequences are allowed. Biology, Chemistry, and Physics sequences each have approved two-course progressions. See the CS Undergraduate Handbook for the list of allowed sequences.
+
+Perspectives: Lab Science 1 fulfills the required Natural Science Inquiry Perspective. The Calculus sequence (MATH 181 and MATH 182) fulfills the Mathematical Perspectives requirement.
+
+Prerequisites: Prerequisites are shown in parentheses under course names on the official flowchart. Students must satisfy prerequisites before enrolling. The CS department enforces prerequisite requirements and does not routinely grant exceptions.
+
+Co-op Eligibility: Students must maintain satisfactory academic progress and complete co-op seminar (CSCI 99) requirements each semester to remain eligible for co-op rotations. Missing co-op seminar deadlines can delay co-op placement.

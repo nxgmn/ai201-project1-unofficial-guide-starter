@@ -1,0 +1,30 @@
+Title: Best CS cluster electives — what are students actually recommending?
+Subreddit: rit
+Source: RIT CS student discussion (curated summary)
+
+Post body:
+I need to choose a CS cluster and pick electives. There are eight clusters (AIN, AOS, CGM, DSC, DSS, PLT, SEC, THR) and I do not know enough to make an informed choice. What are students saying about each one, and which electives within them are actually worth taking?
+
+Top-level comments:
+
+- The AIN (Artificial Intelligence and Machine Learning) cluster is the most popular right now by a large margin. CSCI 335 (Machine Learning), CSCI 420 (Principles of Data Mining), CSCI 431 (Computer Vision), and CSCI 534 (Mobile Robot Programming) are the heavy hitters. If you want to work in ML, data science, or any AI-adjacent role, this cluster maps directly to what employers are hiring for. The coursework is math-heavy — expect linear algebra and probability to matter.
+
+- The SEC (Security) cluster is consistently well-regarded for both career relevance and intellectual interest. CSCI 455 (Principles of Cybersecurity), CSCI 462 (Introduction to Cryptography), CSCI 532 (Intelligent Security Systems), and CSCI 642 (Secure Coding) are the core offerings. Security roles are in demand and the pay is strong. Students who combine SEC with systems courses are particularly attractive to employers.
+
+- The DSC (Data Science) cluster overlaps significantly with AIN but is more focused on data infrastructure, cleaning, and statistical analysis. CSCI 420, CSCI 521 (Data Cleaning and Preparation), and CSCI 536 (Information Retrieval) are the key courses. Good choice if your career interest is in data engineering or analytics rather than pure ML research.
+
+- The AOS (Architecture and Operating Systems) cluster covers the deepest systems content in the CS curriculum: CSCI 452 (Systems Programming), CSCI 453 (Computer Architecture), CSCI 352 (Operating Systems), and CSCI 654 (Parallel Computing). Students who complete this cluster deeply understand how software runs on hardware. It is considered one of the harder clusters but highly respected by systems-focused employers.
+
+- The PLT (Programming Languages and Tools) cluster attracts students who like compilers, language design, and advanced programming paradigms. CSCI 464 (XTreme Theory), CSCI 541 Advanced Programming skill courses (Go, C++, Rust, Haskell, C#), and related seminars are the options. The 541 series is unique — each offering covers a different language/paradigm and can be taken multiple times. Students who want to be strong language generalists or work in compiler/toolchain engineering gravitate here.
+
+- The CGM (Computer Graphics and Computational Media) cluster is best for students interested in game development, simulation, or visual computing. CSCI 510 (Computer Graphics), CSCI 511 (Interactive Music Experiences), and CSCI 631 (Computer Vision foundations) are popular. It requires a solid math foundation — linear algebra and some calculus are prerequisites in effect even if not always listed formally.
+
+- The DSS (Distributed Systems) cluster focuses on networked and concurrent computing: CSCI 351 (Data Communications and Networks), CSCI 652 (Distributed Systems), and CSCI 654 (Parallel Computing). Cloud infrastructure, microservices, and large-scale system design are all grounded in this material. Strong choice for students aiming at backend engineering or cloud roles.
+
+- The THR (Theory) cluster is the most abstract option. It covers computability, complexity, and mathematical foundations of CS. CSCI 262 is often the gateway course, and upper-level Theory options include CSCI 569 seminar offerings and CSCI 464. Students who love math and are considering graduate school often gravitate here.
+
+- A common pattern among students who are happy with their cluster choice: they picked based on what they would actually enjoy learning, not just what sounds impressive. Clusters are studied over two or more semesters — choosing one you are not interested in leads to grinding through courses you hate.
+
+- You do not have to commit to a cluster in your first or second year. Most cluster electives are 400-level or above, so you have time to explore during your first two years and then decide based on what clicked. Some students take a survey of two or three areas before committing.
+
+- Talk to upperclassmen who have completed a cluster before finalizing your choice. They can tell you which professors make the material click, which courses have the heaviest workload, and whether the content actually showed up in their interviews or internships.

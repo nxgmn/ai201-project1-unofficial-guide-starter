@@ -16,5 +16,11 @@ env/
 chroma_db/
 chroma/
 
+# Generated pipeline artifacts (re-created by scripts)
+documents/raw/
+documents/cleaned/
+documents/*.pdf
+documents/scrape_report.json
+
 # macOS
 .DS_Store

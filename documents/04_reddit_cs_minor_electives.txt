@@ -1,0 +1,32 @@
+Title: CS minor — which electives to take?
+Subreddit: rit
+Source: RIT CS student discussion (curated summary)
+
+Post body:
+I'm a non-CS major considering a CS minor. Does anyone know which electives actually satisfy the minor requirements and which ones are worth taking? I have room for about two free electives and I want to make them count.
+
+Top-level comments:
+
+- The CS minor at RIT requires completing a set of core CS courses (including CSCI 141 and 142 as the foundation) plus a specified number of CS elective credits. The exact credit count and elective list is in the CS Undergraduate Handbook — read it carefully because not every CSCI-numbered course automatically counts.
+
+- For electives within the minor, you want courses that either build depth in one area or give you skills that employers recognize. CSCI 335 (Machine Learning), CSCI 351 (Data Communications and Networks), and CSCI 352 (Operating Systems) are popular choices because they appear on job descriptions constantly.
+
+- CSCI 455 (Principles of Cybersecurity) is worth considering if you have any interest in security or just want a broad, marketable skill. It covers threat modeling, cryptographic basics, and common attack vectors. Many students from other majors find it accessible and interesting.
+
+- If you are in a STEM field, CSCI 420 (Principles of Data Mining) pairs well with statistics or engineering backgrounds. It covers clustering, classification, and regression in a CS context. The prerequisite is CSCI 320, so plan accordingly.
+
+- CSCI 510 (Introduction to Computer Graphics) is popular among design or game-related majors. It is math-heavy (linear algebra shows up constantly), but students who complete it have something concrete and visual to show in portfolios.
+
+- CSCI 462 (Introduction to Cryptography) is a theory-forward course that satisfies the Security cluster. If you like math and want to understand how encryption actually works at a technical level, this is well regarded.
+
+- A common mistake is picking electives based purely on interest without checking prerequisites. Courses like CSCI 420, 452, and 453 all require 243 or similar. If you have not taken those foundational courses, your choices narrow significantly.
+
+- Students who want to maximize career impact with a minor typically pick two or three electives from a single cluster rather than spreading across clusters. Depth signals specialization to employers more than breadth does.
+
+- The AIN (Artificial Intelligence and Machine Learning) cluster is the most popular right now because of the job market. CSCI 335, 534, and 539 seminar offerings that cover large language models are all in demand.
+
+- Talk to your academic advisor before finalizing choices. The minor requirements can interact with your major's free elective policy, and some courses count for both, which affects how many additional credits you actually need.
+
+- Upper-level CS courses (500-level) are advanced and can include graduate students. They move faster and assume more background. Students who jump to 500-level electives without the 300/400-level foundation often struggle.
+
+- Taking CSCI 261 (Analysis of Algorithms) as part of the minor is worth it even though it is tough — it is the most universally tested topic in technical interviews across all CS-adjacent career paths.

@@ -1,0 +1,81 @@
+{
+  "chunk_size": 400,
+  "overlap": 70,
+  "source_document_count": 10,
+  "processed_document_count": 10,
+  "skipped_document_count": 0,
+  "skipped_files": [],
+  "total_chunks": 24,
+  "files": [
+    {
+      "source_file": "documents/01_rit_cs_electives_clusters_pdf.txt",
+      "original_char_count": 10779,
+      "cleaned_char_count": 10779,
+      "token_count": 1674,
+      "chunk_count": 5
+    },
+    {
+      "source_file": "documents/02_reddit_cs_core_class_advice.txt",
+      "original_char_count": 3748,
+      "cleaned_char_count": 3747,
+      "token_count": 615,
+      "chunk_count": 2
+    },
+    {
+      "source_file": "documents/03_rit_cs_undergrad_flowchart_pdf.txt",
+      "original_char_count": 5551,
+      "cleaned_char_count": 5550,
+      "token_count": 747,
+      "chunk_count": 3
+    },
+    {
+      "source_file": "documents/04_reddit_cs_minor_electives.txt",
+      "original_char_count": 3332,
+      "cleaned_char_count": 3331,
+      "token_count": 514,
+      "chunk_count": 2
+    },
+    {
+      "source_file": "documents/05_reddit_second_year_course_flow.txt",
+      "original_char_count": 3581,
+      "cleaned_char_count": 3580,
+      "token_count": 587,
+      "chunk_count": 2
+    },
+    {
+      "source_file": "documents/06_reddit_cs_coops.txt",
+      "original_char_count": 3805,
+      "cleaned_char_count": 3804,
+      "token_count": 606,
+      "chunk_count": 2
+    },
+    {
+      "source_file": "documents/07_reddit_best_cs_cluster_electives.txt",
+      "original_char_count": 4606,
+      "cleaned_char_count": 4605,
+      "token_count": 695,
+      "chunk_count": 2
+    },
+    {
+      "source_file": "documents/08_ratemyprofessors_251460.txt",
+      "original_char_count": 3183,
+      "cleaned_char_count": 2933,
+      "token_count": 511,
+      "chunk_count": 2
+    },
+    {
+      "source_file": "documents/09_ratemyprofessors_2638596.txt",
+      "original_char_count": 3277,
+      "cleaned_char_count": 3027,
+      "token_count": 516,
+      "chunk_count": 2
+    },
+    {
+      "source_file": "documents/10_ratemyprofessors_2954361.txt",
+      "original_char_count": 3274,
+      "cleaned_char_count": 3024,
+      "token_count": 531,
+      "chunk_count": 2
+    }
+  ]
+}

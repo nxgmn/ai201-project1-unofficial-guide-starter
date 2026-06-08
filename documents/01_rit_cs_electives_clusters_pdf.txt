@@ -1,0 +1,352 @@
+# Page 1
+Computer Science Electives and Clusters
+Computer Science electives belong to one or more groupings called clusters. Undergraduate
+students with the proper prerequisites are permitted and encouraged to take graduate-level
+Computer Science courses. Students should note, however, that in some cases, a graduate-level
+course should not be selected if the student has completed a similar undergraduate-level
+course. Such details may be found in the course catalog description. The CS Undergraduate
+Handbook also contains a document listing pairs of similar graduate and undergraduate
+courses.
+Some course numbers are generic and represent vehicles for faculty to introduce new courses
+in one or perhaps more than one cluster. At the undergraduate level there are seminar
+courses and at the graduate level there are topics courses. The entries for these generic
+course numbers, for example, CSCI 539 or CSCI 759, are identified as generic in the tables
+below and show the potential cluster(s) that might be associated with individual offerings of
+these generic course numbers. When specific seminar or topic instances are approved to be
+offered, we list them here and indicate the actual cluster or clusters they are associated with.
+Be sure to consult the notes table that follows the listings of undergraduate and graduate
+Computer Science Electives for important additional information and restrictions.
+Vertically Integrated Project (VIP) course offerings provide an opportunity for students to
+engage in ambitious, long-term, large-scale multidisciplinary project teams led by faculty. More
+information about how participation in a VIP counts toward a Computer Science BS degree is
+found in the CS Undergraduate Handbook.
+Guide to Computer Science Electives and Associated Clusters -
+Undergraduate Courses
+Course Undergraduate Course Cluster
+Number Name
+AIN AOS CGM DSC DSS PLT SEC THR
+CSCI-
+335 Machine Learning X
+351 Data Communications and X X
+Networks
+352 Operating Systems X
+420 Principles of Data Mining X
+(1)
+420H Honors Principles of Data X
+(1)
+Mining
+421 Principles of Database X
+System Implementation
+# Page 2
+Course Undergraduate Course Cluster
+Number Name
+AIN AOS CGM DSC DSS PLT SEC THR
+CSCI-
+431 Introduction to Computer X X
+Vision
+452 Systems Programming X
+453 Computer Architecture X
+455 Principles of Cybersecurity X
+462 Introduction to X X X
+Cryptography
+464 XTreme Theory X
+509 Seminar in Computer
+Science (generic) (no
+cluster associated with this
+course)
+510 Introduction to Computer X
+Graphics
+511 Interactive Music X
+Experiences
+518 Collaborative Seminar in X
+Computer Graphics and
+Computational Media
+519 Seminar in Computer X
+Graphics and
+Computational Media
+(generic)
+519 Seminar in Computer X
+Graphics and
+Computational Media:
+Computational Music
+Theory
+521 Principles of Data Cleaning X
+and Preparation
+529 Seminar in Data Science X X X
+for Computer Scientists
+(generic)
+532 Introduction to Intelligent X X
+Security Systems
+534 Mobile Robot X
+Programming
+536 Information Retrieval X X
+538 Puzzles for Computing X
+539 Seminar in Artificial X X
+Intelligence (generic)
+# Page 3
+Course Undergraduate Course Cluster
+Number Name
+AIN AOS CGM DSC DSS PLT SEC THR
+CSCI-
+539 Seminar in Artificial X
+Intelligence: Large
+Language Models
+541 Advanced Programming X
+(2)
+Skills: Concurrent and
+Systems Programming in
+Go
+541 Advanced Programming X
+(2)
+Skills: Design Patterns and
+C#/.NET
+541 Advanced Programming X
+(2)
+Skills: Efficient Design in
+Modern C++
+541 Advanced Programming X
+(2)
+Skills: Functional
+Programming and Haskell
+541 Advanced Programming X
+(2)
+Skills: Safe Systems
+Programming in Rust
+549 Seminar in Programming X X
+Languages and Tools
+(generic)
+559 Seminar in Systems X X X
+(generic)
+569 Seminar in Theory X X
+(generic)
+571 Honors Capstone Research
+(also approved as an
+honors course)
+589 Undergraduate Thesis
+(3)
+Proposal and Preparation
+590 Undergraduate Thesis
+(3)
+599 Computer Science
+(4)
+Undergraduate
+Independent Study
+# Page 4
+Guide to Computer Science Electives and Associated Clusters -
+Graduate Courses
+Course Graduate Course Name Cluster
+Number
+AIN AOS CGM DSC DSS PLT SEC THR
+CSCI-
+610 Foundations of Computer X
+Graphics
+620 Introduction to Big Data X
+(1)
+621 Foundations of Database X
+System Implementation
+622 Data Security and Privacy X X
+631 Foundations of Computer X X
+Vision
+633 Biologically Inspired X
+Intelligent Systems
+634 Mobile Robot X
+Programming
+635 Introduction to Machine X
+Learning
+636 Information Retrieval X X
+637 Machine Learning Systems X
+Implementation
+641 Advanced Programming X
+(2)
+Skills: Concurrent and
+Systems Programming in
+Go
+641 Advanced Programming X
+(2)
+Skills: Design Patterns and
+C#/.NET
+641 Advanced Programming X
+(2)
+Skills: Efficient Design in
+Modern C++
+641 Advanced Programming X
+(2)
+Skills: Functional
+Programming and Haskell
+641 Advanced Programming X
+(2)
+Skills: Safe Systems
+Programming in Rust
+642 Secure Coding X X
+651 Foundations of Computer X X
+Networks
+652 Distributed Systems X
+# Page 5
+Course Graduate Course Name Cluster
+Number
+AIN AOS CGM DSC DSS PLT SEC THR
+CSCI-
+654 Foundations of Parallel X
+Computing
+655 Foundations of X
+Cybersecurity
+662 Foundations of X X X
+Cryptography
+664 Computational Complexity X
+667 Randomized Algorithms X X
+687 Graduate Research
+Seminar (no cluster
+associated with this
+course)
+709 Topics in Computer
+Science (generic) (no
+cluster associated with this
+course)
+711 Global Illumination X
+712 Computer Animation: X
+Algorithms and
+Techniques
+715 Applications in Virtual X
+Reality
+716 Computational Geometry X X
+719 Topics in Computer X
+Graphics and
+Computational Media
+(generic)
+720 Big Data Analytics X
+722 Data Analytics with X
+Cognitive Computing
+723 Advanced Database Skills: X
+Graph Databases
+724 Web Services and Service X X
+Oriented Computing
+725 Advanced Database Skills: X
+NoSQL and NewSQL Data
+Systems
+729 Topics in Data Science for X X X
+Computer Scientists
+(generic)
+731 Advanced Computer Vision X
+# Page 6
+Course Graduate Course Name Cluster
+Number
+AIN AOS CGM DSC DSS PLT SEC THR
+CSCI-
+733 Autonomous Driving X X
+Perception
+735 Foundations of Intelligent X X
+Security Systems
+736 Neural Networks and X
+Machine Learning
+739 Topics in Artificial X X
+Intelligence for Computer
+Scientists (generic)
+739 Topics in Artificial X X
+Intelligence for Computer
+Scientists: Quantum
+Machine Learning
+739 Topics in Artificial X
+Intelligence: Theory and
+Practice of Gen AI
+740 Programming Language X X
+Theory
+742 Compiler Construction X
+749 Topics in Programming X X
+Languages and Tools
+(generic)
+749 Topics in Programming X X
+Languages and Tools:
+Verification using Proof
+Assistants
+750 Fundamentals of Cloud X
+Computing
+759 Topics in Systems X X X
+(generic)
+761 Topics in Advanced X
+Algorithms (generic)
+761 Topics in Advanced X
+Algorithms: Topics in
+Combinatorial Computing
+761 Topics in Advanced X
+Algorithms: Distributed
+Algorithms
+764 Quantum-Resistant X X
+Cryptography
+769 Topics in Theory (generic) X X
+# Page 7
+Course Graduate Course Name Cluster
+Number
+AIN AOS CGM DSC DSS PLT SEC THR
+CSCI-
+769 Topics in Theory: X X
+Quantum Computing
+Principles and
+Applications
+787 Masters Thesis Proposal
+(5)
+and Preparation
+799 Computer Science
+(4)
+Graduate Independent
+Study
+# Page 8
+Notes Containing Additional Information or Restrictions
+Note Information/Restrictions
+1 Undergraduate students who take both CSCI 320 and CSCI 420/420H are not
+permitted to take CSCI 620 as a Computer Science elective or for credit toward
+a Computer Science degree. Many graduate-level Data Science courses that
+require CSCI 620 as a prerequisite also permit students to enroll if they have
+completed CSCI 320 and CSCI 420/420H. Some graduate-level Data Science
+courses that require CSCI 620 as a prerequisite will permit students to enroll if
+they have completed just CSCI 320.
+2 CSCI 541 and CSCI 641 are co-listed. Students are permitted to take the courses
+for credit more than once, provided each instance deals with a different
+paradigm and language.
+3 CSCI 589 Undergraduate Thesis Proposal and Preparation, and CSCI 590
+Undergraduate Thesis are opportunities for undergraduate students to pursue
+an undergraduate thesis. In the first course, the student develops the thesis
+proposal; in the second course the student produces the thesis. In each case, a
+student must work with a faculty member who agrees to mentor the student.
+The proposal form offers the student and faculty member a chance to propose
+that the thesis fit in no cluster or be associated with one specific cluster – the
+proposed cluster designation is reviewed by the coordinators when the
+proposal form is submitted. Approval of the thesis proposal includes approval
+of the proposed cluster designation, if one is specified. More information on
+CSCI 589 and CSCI 590 is available in the CS Undergraduate Handbook.
+4 Independent study projects are proposed by a student working in conjunction
+with a faculty member who agrees to sponsor the project. The proposal form
+offers the student and faculty member a chance to propose that the project fit
+in no cluster or be associated with one specific cluster – the proposed cluster
+designation is reviewed by the coordinators when the proposal form is
+submitted. Approval of the independent study project includes approval of the
+proposed cluster designation, if one is specified. More information on CSCI 599
+Computer Science Undergraduate Independent Study is available in the CS
+Undergraduate Handbook.
+5 CSCI 787 Masters Thesis Proposal and Preparation is for graduate students
+who plan to pursue the thesis option, and will apply a course in their program
+of study devoted to preparation of the thesis proposal. A student must work
+with a faculty member who agrees to mentor the student. The proposal form
+offers the student and faculty member a chance to propose that the thesis fit in
+no cluster or be associated with one specific cluster – the proposed cluster
+designation is reviewed by the coordinators when the proposal form is
+submitted. Approval of the thesis proposal includes approval of the proposed
+cluster designation, if one is specified. More information on CSCI 787 is
+available in the CS Undergraduate Handbook.
+# Page 9
+Guide to Computer Science Clusters
+AIN Artificial Intelligence DSS Distributed Systems
+AOS Architecture and Operating PLT Programming Languages and
+Systems Tools
+CGM Computer Graphics and THR Theory
+Computational Media
+DSC Data Science SEC Security
+Partial Guide to RIT Course Numbering Scheme
+Course Number Range Interpretation
+101-199 Introductory lower-division
+undergraduate courses
+200-299 Lower-division undergraduate courses
+300-499 Upper-division undergraduate courses
+500-599 Advanced upper-division
+undergraduate courses
+600-699 Introductory graduate courses
+700-799 Advanced graduate courses

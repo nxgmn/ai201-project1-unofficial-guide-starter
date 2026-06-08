@@ -1,0 +1,32 @@
+Title: Need advice on CS core classes at RIT
+Subreddit: rit
+Source: RIT CS student discussion (curated summary)
+
+Post body:
+I'm finishing my first year in CS at RIT and I want to plan ahead. Can anyone give advice on the core CS classes — which ones are the hardest, which matter most for jobs, and what order makes sense? I'm not sure whether to try to accelerate or just follow the default flowchart.
+
+Top-level comments:
+
+- The biggest adjustment for most students is CSCI 142 (Computer Science II). It moves fast, covers object-oriented design, inheritance, interfaces, and data structures all in one semester. If 141 felt easy, do not coast — 142 is where a lot of students hit their first wall. Office hours are essential.
+
+- CSCI 243 (The Art and Practice of Computer Science) is the course that filters out students who are not serious. You go deep on memory management, pointers, and systems-level thinking in C. It requires CSCI 142 with a C or higher for good reason. Block off serious study time and do not let assignments pile up.
+
+- CSCI 262 (Introduction to Computer Science Theory) runs alongside 243 for many students and covers formal languages, automata, and computability theory. It is abstract and notation-heavy. Students who struggle tend to be those who have not thought mathematically before — MATH 190 is the prerequisite, and you need to actually absorb it.
+
+- MATH 190 (Discrete Mathematics for Computing) is not a CS course but it is load-bearing. Sets, logic, proofs by induction, graph theory — all of these come back in 262, in algorithms, and in later systems courses. Take it seriously even if it feels theoretical.
+
+- CSCI 261 (Analysis of Algorithms) is the course most students say is the most important for technical interviews. Big-O, sorting, graph algorithms, dynamic programming — this is core computer science that every employer tests. Students who struggled here say they underestimated the proof component.
+
+- For CSCI 250 (Computer Organization), expect to learn digital logic, assembly, memory hierarchies, and how software maps to hardware. It is dense but clarifies a lot about why programs behave the way they do. The lab component takes real time.
+
+- A common mistake is taking 243, 262, and MATH 251 all in the same semester. Each is individually manageable, but together they leave almost no slack. Many students recommend staggering them or pairing one of them with lighter electives.
+
+- The co-op seminar (CSCI 99) is required and runs every semester. It is low credit but do not ignore the career development deadlines — resume reviews and mock interviews count and employers actually come to campus events.
+
+- Professors vary significantly in their teaching style for core courses. Rate My Professors is useful for getting a general sense of grading strictness, but take extreme reviews (very positive or very negative) with a grain of salt. The syllabus and sample exams tell you more about workload than any review.
+
+- For students who want to accelerate: placing out of 141 is possible with a strong AP CS score, and some students attempt 142 and MATH 181 simultaneously in their first semester. Most advise against overloading in year one — the transition to RIT's pace catches people off guard.
+
+- The CS department has tutoring resources and TAs for most core classes. Use them early, not the night before an exam. Many TAs are upper-level students who took the same course and remember what tripped them up.
+
+- CSCI 472 (Historical and Current Perspectives in Computer Science) is a writing-intensive requirement for CS majors, typically taken in the fourth or fifth year. It counts as one of three required writing-intensive courses. Do not forget it when planning later semesters.

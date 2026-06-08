@@ -1,0 +1,32 @@
+Title: Computer Science BS co-ops — how do they work and how do I prepare?
+Subreddit: rit
+Source: RIT CS student discussion (curated summary)
+
+Post body:
+I'm a first-year CS student trying to understand the co-op requirement. What exactly is required, when does it happen, what kinds of companies hire RIT CS students, and what should I be doing now to prepare?
+
+Top-level comments:
+
+- RIT's CS program requires co-op experience as part of the degree. The standard structure involves at least one semester-length co-op (CSCI 499) and optionally a summer co-op (CSCI 488). The co-op seminar (CSCI 99) runs each semester to prepare you — it is a zero-credit requirement but real deadlines apply.
+
+- Most CS students do their first co-op after sophomore year. To be eligible, you need to have completed enough core coursework and satisfied the co-op seminar requirements, including a completed resume and at least one mock interview session through the university career center.
+
+- The range of companies that hire RIT CS co-ops is wide: large tech companies (Google, Microsoft, Amazon, Meta, Apple all recruit at RIT), mid-size software companies, defense contractors, financial firms, and local Rochester-area companies. RIT's co-op fair in fall and spring is a major pipeline — attend both.
+
+- Internships and co-ops are not the same at RIT. A co-op is a full semester off campus working full-time; it counts toward graduation requirements and appears on your transcript. Summer positions (CSCI 488) are shorter and optional but still count.
+
+- To prepare for co-op recruiting as a first-year: start building a GitHub portfolio now. Even small personal projects — a CLI tool, a web scraper, a data visualization — are worth more than a blank profile. Employers look for evidence that you code outside of class.
+
+- Technical interviews for CS co-ops typically test data structures and algorithms at the level of CSCI 261 content: arrays, linked lists, trees, graphs, sorting, and dynamic programming. LeetCode Easy to Medium difficulty is the right preparation range for first co-ops. Start practicing in sophomore year, not the week before interviews.
+
+- Soft skills matter more than most CS students expect. Communication, ability to ask good questions, and professionalism in emails and video calls all affect whether you get an offer and whether a co-op converts to a return offer. The career center's mock interview practice is worth doing seriously.
+
+- Students who struggle to land co-ops often have one of three problems: no visible projects, weak resume formatting, or poor interview performance on basic algorithm questions. All three are fixable with effort. Go to the career center for resume feedback — it is free and the advisors are experienced with CS recruiting.
+
+- Co-op salaries for RIT CS students are competitive. Expect $20–$40 per hour for first co-ops depending on location, company size, and role. Remote roles at larger companies tend to pay at the high end. Many students use co-op earnings to reduce loan burden.
+
+- After a successful co-op, document what you built and what you learned in specific, measurable terms before you leave: lines of code contributed, features shipped, percentage improvement in performance, whatever applies. Vague descriptions hurt you in future interviews.
+
+- RIT has a strong alumni network in tech, especially in the Northeast and Mid-Atlantic. Reaching out to RIT alumni at companies you are interested in is a legitimate and often effective strategy — many are happy to refer students for open co-op roles.
+
+- Some students do all their required co-ops remotely and never leave campus for an extended period. Remote co-ops can be fine but you miss out on on-site networking. If you get a chance to do an in-person rotation, consider taking it.
